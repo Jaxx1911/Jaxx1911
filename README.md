@@ -13,7 +13,7 @@
   
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+web+developer;I+want+to+be+a+golang+developer)](https://github.com/n0xgg04)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+backend+developer;I+want+to+be+a+golang+developer)](https://github.com/Jax1911)
 
  </div>  
 
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,c,cs,mysql,golang,redis&perline=6)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,c,cs,mysql,golang,redis&perline=4)]()
 
 </br>
 
