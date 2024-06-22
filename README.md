@@ -29,7 +29,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaxx1911&layout=compact)](https://github.com/Jaxx1911/github-readme-stats)
 
 </div>
-<img src="https://raw.githubusercontent.com/n0xgg04/n0xgg04/main/w8ZJLtJbmuph.gif" alt="TuanAnh"/>
+<img src="https://github.com/Jaxx1911/Jaxx1911/blob/main/Geysv.png" alt="THN"/>
 
 
 ### My public project
