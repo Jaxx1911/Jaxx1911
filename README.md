@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://gist.githubusercontent.com/brudnak/6c21505423e4ff089ab704ec79b5a096/raw/b2d3dec32474b2121b179920734b259323a7c250/go.gif" style="width: 100%" />
+<img src="https://dwglogo.com/wp-content/uploads/2017/08/muscles-clipart-ghoper.gif" style="width: 100%" />
 </div>  
 
 ## <div align="center">About me</div>  
