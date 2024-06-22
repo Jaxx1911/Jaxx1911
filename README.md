@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://dwglogo.com/wp-content/uploads/2017/08/muscles-clipart-ghoper.gif" style="width: 100%" />
+<img src="https://tenor.com/vi/view/party-gopher-golang-dance-cute-gif-16277406" style="width: 100%" />
 </div>  
 
 ## <div align="center">About me</div>  
