@@ -21,7 +21,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,cpp,c,mysql,typescript,javascript,react,nextjs,redux,tailwind,nodejs,express,laravel,golang,redis,vue,flutter&perline=6)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,c,mysql,golang,redis&perline=6)]()
 
 </br>
 
@@ -33,14 +33,6 @@
 
 
 ### My public project
-- [Nox Mod Skin](https://play.google.com/store/apps/details?id=com.nox.aov.std&hl=vi)
-  [(Nox Mod Skin PRO](https://play.google.com/store/apps/details?id=com.noxinfinity.modskin&hl=vi)
-- [BKX Chatbot](https://www.facebook.com/bkx.conmmunity/)
-- [MemeSounds](https://play.google.com/store/apps/details?id=com.noxinfinity.memevotreevc&hl=vi)
-- [AOV Wallpapers](https://play.google.com/store/apps/details?id=com.noxinfinity.wallpapers&hl=vi)
-- [Nox Infinity](https://noxinfinity.tech)
-- [Liqi News](https://play.google.com/store/apps/details?id=com.noxinfinity.liqi.news)
-- [NoxTik - Download video from Tiktok, Youtube,...](https://play.google.com/store/apps/details?id=com.noxinfinity.noxtik)
 - [S-Learn](https://play.google.com/store/apps/details?id=com.noxinfinity.luyenthiptit)
   
 
@@ -73,20 +65,3 @@
 <br/>  
 
  </br>
-
-## Spotify🎶  
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31n5bpxmejif25cmvgoxfjl2frvi&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31n5bpxmejif25cmvgoxfjl2frvi&redirect=true)
-
-  </div>
-  
-<br/>  
-<a href="https://app.daily.dev/n0xgg04"><img src="https://api.daily.dev/devcards/51678576a00c4797b3289ef900ea745c.png?r=p5b" width="400" alt="Anh's Dev Card"/></a>
-<br/>
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=n0xgg04&style=for-the-badge)
-
-</div>
