@@ -1,5 +1,5 @@
 <div align="center">
-<image srt="https://github.com/Jaxx1911/Jaxx1911/blob/main/party-gopher.gif" style="width: 100%" />
+<img srt="https://github.com/Jaxx1911/Jaxx1911/blob/main/party-gopher.gif" style="width: 100%" />
 </div>  
 
 ## <div align="center">About me</div>  
