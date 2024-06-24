@@ -18,6 +18,7 @@
 </div> 
 </div>
 </div>
+
 ## Skills 📖  
 
 <div align="center">
