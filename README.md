@@ -10,12 +10,13 @@
   - <div>🏫I am studying at  Posts & Telecoms Institute of Technology</div>  
     
   - <div>😚I love workout </div>  
+    <div>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+backend+developer;I+want+to+be+a+golang+developer)](https://github.com/Jax1911)
+  
+   </div>  
   </div>
-<div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+backend+developer;I+want+to+be+a+golang+developer)](https://github.com/Jax1911)
-
- </div>  
 
 ## Skills 📖  
 
