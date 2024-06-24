@@ -4,7 +4,7 @@
 
 ## <div align="center">About me</div> 
   
-<div display="flex" justify-content="space-between">
+<div display="flex" >
 <img src="https://github.com/Jaxx1911/Jaxx1911/blob/main/5a579c7f2a33500bd80bd882f6abbf9e_3555378071112590824.gif" style="width: 50%"/>
 <div style="width: 50%">
   
