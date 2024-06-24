@@ -5,6 +5,7 @@
 ## <div align="center">About me</div> 
 <div>  
 <img src="https://github.com/Jaxx1911/Jaxx1911/blob/main/5a579c7f2a33500bd80bd882f6abbf9e_3555378071112590824.gif" style="width: 70%" align="right"/>
+<div>  
   
 - <div>🔭 My name is Truong Hoang Nguyen</div>  
 
@@ -15,6 +16,7 @@
       
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+backend+developer;I+want+to+be+a+golang+developer)](https://github.com/Jaxx1911)
 </div> 
+</div>
 </div>
 ## Skills 📖  
 
