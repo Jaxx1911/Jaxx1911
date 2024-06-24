@@ -26,7 +26,7 @@
 </br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaxx1911&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=FFFFFF&bg_color=0,000000,130F40)](https://github.com/Jaxx1911/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaxx1911&show_icons=true&locale=en&layout=compact&line_height=20&title_color=D0D0FB&icon_color=2234AE&text_color=FFFFFF&bg_color=0,000000,130F40)](https://github.com/Jaxx1911/github-readme-stats)
 
 </div>
 <img src="https://github.com/Jaxx1911/Jaxx1911/blob/main/Geysv.png" alt="THN"/>
