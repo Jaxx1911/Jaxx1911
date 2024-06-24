@@ -4,9 +4,9 @@
 
 ## <div align="center">About me</div> 
   
+<div style="display: flex; justify-content: space-between;">
+<img src="https://github.com/Jaxx1911/Jaxx1911/blob/main/5a579c7f2a33500bd80bd882f6abbf9e_3555378071112590824.gif" style="width: 50%"/>
 <div style="width: 50%">
-<img src="https://github.com/Jaxx1911/Jaxx1911/blob/main/5a579c7f2a33500bd80bd882f6abbf9e_3555378071112590824.gif"/>
-<div>
   
 - <div>🔭 My name is Truong Hoang Nguyen</div>  
 
