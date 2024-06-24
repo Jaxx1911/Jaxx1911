@@ -3,7 +3,7 @@
 </div>  
 
 ## <div align="center">About me</div>  
-  
+  <img src="https://github.com/Jaxx1911/Jaxx1911/blob/main/5a579c7f2a33500bd80bd882f6abbf9e_3555378071112590824.gif"/>
 
 - <div align="center">🔭 My name is Truong Hoang Nguyen</div>  
   
