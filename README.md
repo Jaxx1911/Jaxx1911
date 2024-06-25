@@ -4,9 +4,9 @@
 
 ## About me
 
-<div margin-bottom="20px">
+<div margin-bottom=20px>
 <div>  
-<img src="https://github.com/Jaxx1911/Jaxx1911/blob/main/party-gopher.gif" align="right" margin-left="20px"/>
+<img src="https://github.com/Jaxx1911/Jaxx1911/blob/main/party-gopher.gif" align="right" margin-left=20px/>
 <div>  
   
 - <div>🔭 My name is Truong Hoang Nguyen</div>  
