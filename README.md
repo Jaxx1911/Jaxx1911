@@ -3,24 +3,21 @@
 </div>  
 
 ## About me
-
-<div align="center">
-  <div>
-    <img   src="https://github.com/Jaxx1911/Jaxx1911/blob/main/party-gopher.gif" />
-  </div>
-    
-  - 🤓 My name's Truong Hoang Nguyen  
-
-  - 🏫 I'm studying at Posts & Telecoms Institute of Technology
-
-  - 💝 Genshin player - Calisthenic lover 💝  
   
-  <div>
+  <img align="left" src="https://github.com/Jaxx1911/Jaxx1911/blob/main/party-gopher.gif" />
+  <div align="left">
+  <p align="center">🤓 My name's Truong Hoang Nguyen  <br><br>  🏫 I'm studying at Posts & Telecoms Institute of Technology<br><br>  💝 Genshin player - Calisthenic lover 💝
       
+ 
+  <div align="center">
+    
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+backend+developer;I+want+to+be+a+golang+developer)](https://github.com/Jaxx1911)
-  </div> 
-</div>
+  </div>
+  </p>
+  </div>
+  
 
+</br>
 
 ## Skills 📖
 <img align="right" src="https://github.com/Jaxx1911/Jaxx1911/blob/main/292f0f5c-d931-42ea-809c-0a79c1da9457_kazuha-bun-sample.gif" />
