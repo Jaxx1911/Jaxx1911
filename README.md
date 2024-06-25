@@ -4,6 +4,7 @@
 
 ## About me
 
+<div>
 <div>  
 <img src="https://github.com/Jaxx1911/Jaxx1911/blob/main/party-gopher.gif" align="right"/>
 <div>  
@@ -17,6 +18,7 @@
       
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+backend+developer;I+want+to+be+a+golang+developer)](https://github.com/Jaxx1911)
 </div> 
+</div>
 
 ## Skills 📖  
 
