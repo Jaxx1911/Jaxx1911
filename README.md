@@ -4,7 +4,7 @@
 
 ## About me
 
-<div>  
+<div style="margin-bottom: 200px;">  
 <img src="https://github.com/Jaxx1911/Jaxx1911/blob/main/party-gopher.gif" align="right" style="margin-right: 2000px;"/>
 <div>  
   
