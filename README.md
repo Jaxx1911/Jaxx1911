@@ -4,6 +4,7 @@
 </div>  
 
 ## <div align="center">About me</div> 
+
 <div>  
 <img src="https://github.com/Jaxx1911/Jaxx1911/blob/main/party-gopher.gif" align="right"/>
 <div>  
