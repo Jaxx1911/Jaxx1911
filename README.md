@@ -3,19 +3,24 @@
 </div>  
 
 ## About me
-  <img align ="left" src="https://github.com/Jaxx1911/Jaxx1911/blob/main/party-gopher.gif"/>
+
+<div align="center">
+  <div>
+    <img   src="https://github.com/Jaxx1911/Jaxx1911/blob/main/party-gopher.gif" />
+  </div>
+    
+  - 🤓 My name's Truong Hoang Nguyen  
+
+  - 🏫 I'm studying at Posts & Telecoms Institute of Technology
+
+  - 💝 Genshin player - Calisthenic lover 💝  
   
-  - 🔭 My name is Truong Hoang Nguyen  
-
-  - 🏫 I am studying at Posts & Telecoms Institute of Technology
-
-  - 😚 I love workout
-    <div>
+  <div>
       
-    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+backend+developer;I+want+to+be+a+golang+developer)](https://github.com/Jaxx1911)
-    </div> 
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+backend+developer;I+want+to+be+a+golang+developer)](https://github.com/Jaxx1911)
+  </div> 
+</div>
 
-##
 
 ## Skills 📖
 <img align="right" src="https://github.com/Jaxx1911/Jaxx1911/blob/main/292f0f5c-d931-42ea-809c-0a79c1da9457_kazuha-bun-sample.gif" />
@@ -37,13 +42,13 @@
 - [S-Learn](https://play.google.com/store/apps/details?id=com.noxinfinity.luyenthiptit)
   
 
-## Connect with me📱  
+## Connect with me  
   
 <a href="https://www.facebook.com/truonghoang.nguyen.71619" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/Jaxx1911" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:truonghoangnguyen1911@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -52,6 +57,4 @@
 <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger"/>
 </a>
 
-<br/>  
 
- </br>
