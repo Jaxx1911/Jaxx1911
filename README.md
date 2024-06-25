@@ -1,6 +1,5 @@
 <div align="center">
-  <img src"https://github.com/Jaxx1911/Jaxx1911/blob/main/de17cs0-7d15ba15-8add-45c6-aa56-e6ad024b976b.gif"/>
-
+  <img src="https://github.com/Jaxx1911/Jaxx1911/blob/main/de17cs0-7d15ba15-8add-45c6-aa56-e6ad024b976b.gif"/>
 </div>  
 
 ## <div align="center">About me</div> 
