@@ -4,15 +4,15 @@
 
 ## About me
 
-<div style="margin-bottom: 200px;">  
+<div style="margin-bottom: 20px;">  
 <img src="https://github.com/Jaxx1911/Jaxx1911/blob/main/party-gopher.gif" align="right" style="margin-right: 2000px;"/>
 <div>  
   
-- <div>🔭 My name is Truong Hoang Nguyen</div>  
+- <div style="font-size:40px;">🔭 My name is Truong Hoang Nguyen</div>  
 
-- <div>🏫 I am studying at Posts & Telecoms Institute of Technology</div>  
+- <div style="font-size:40px;">🏫 I am studying at Posts & Telecoms Institute of Technology</div>  
 
-- <div>😚 I love workout</div>  
+- <div style="font-size:40px;">😚 I love workout</div>  
 <div>
       
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+backend+developer;I+want+to+be+a+golang+developer)](https://github.com/Jaxx1911)
