@@ -3,23 +3,22 @@
 </div>  
 
 ## About me
-
-<img src="https://github.com/Jaxx1911/Jaxx1911/blob/main/party-gopher.gif" align="right"/>
-<div>  
+  <img align ="left" src="https://github.com/Jaxx1911/Jaxx1911/blob/main/party-gopher.gif"/>
   
-- <div>🔭 My name is Truong Hoang Nguyen</div>  
+  - 🔭 My name is Truong Hoang Nguyen  
 
-- <div>🏫 I am studying at Posts & Telecoms Institute of Technology</div>  
+  - 🏫 I am studying at Posts & Telecoms Institute of Technology
 
-- <div>😚 I love workout</div>  
-<div>
+  - 😚 I love workout
+    <div>
       
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+backend+developer;I+want+to+be+a+golang+developer)](https://github.com/Jaxx1911)
-</div> 
-</div>
+    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+want+to+be+a+backend+developer;I+want+to+be+a+golang+developer)](https://github.com/Jaxx1911)
+    </div> 
 
-## Skills 📖  
+##
 
+## Skills 📖
+<img align="right" src="https://github.com/Jaxx1911/Jaxx1911/blob/main/292f0f5c-d931-42ea-809c-0a79c1da9457_kazuha-bun-sample.gif" />
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,cpp,c,cs,mysql,golang,redis&perline=4)]()
@@ -33,7 +32,8 @@
 <img src="https://github.com/Jaxx1911/Jaxx1911/blob/main/Geysv.png" alt="THN"/>
 
 
-### My public project
+## My public project
+
 - [S-Learn](https://play.google.com/store/apps/details?id=com.noxinfinity.luyenthiptit)
   
 
