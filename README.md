@@ -6,7 +6,7 @@
   
   <img align="left" src="https://github.com/Jaxx1911/Jaxx1911/blob/main/party-gopher.gif" />
   <div align="left">
-  <p align="center">🤓 My name is Truong Hoang Nguyen  <br><br>  🏫 I'm studying at Posts & Telecoms Institute of Technology<br><br>  💝 Genshin player - Calisthenic lover 💝
+  <p align="center">🤓 My name is Truong Hoang Nguyen  <br><br>  🏫 Studying at Posts & Telecoms Institute of Technology<br><br>  💝 Genshin player - Calisthenic lover 💝
       
  
   <div align="center">
